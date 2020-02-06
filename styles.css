@@ -1,0 +1,36 @@
+img {
+    border-radius: 50%;
+    height:30%;
+    width:30%;
+    
+}
+  
+  .active{
+      background-color: blue;
+  }
+  body{
+      background-color: blue;
+      font-size: 25px;
+      font-family: sans-serif;
+  }
+ 
+ #nbar>ul{
+      background-color: aquamarine;
+      display: flex;
+  }
+  #nbar li {
+      display: block;
+      color: black;
+      padding: 20px;
+      text-decoration: none;
+      text-align: center;
+      
+  }
+  .section1{
+      padding: 15px;
+      margin-bottom: 50px;
+      background-color: blue;
+  }
+  .section4{
+      background-color: aquamarine;
+  }
