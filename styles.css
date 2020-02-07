@@ -28,14 +28,14 @@ img:hover{
       text-align: center;
       
   }
-/*.section1{
+.section1{
       padding: 15px;
       margin-bottom: 50px;
       background-color: blue;
-  }*/
-  .section4{
-      background-color:cyan;
   }
+ /* .section4{
+      background-color:cyan;
+  }*/
   .flexx{
     /* float: right; */
     /* width: 50%; */
