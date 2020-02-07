@@ -9,17 +9,17 @@ img:hover{
     width:550px;
     height:600px;
 }
-  /*body{
+  body{
       background-color: blue;
       font-size: 23px;
     font-family: sans-serif;
     
-  }*/
+  }
  
- #nbar>ul{
+/* #nbar>ul{
       background-color: cyan;
       display: flex;
-  }
+  }*/
   #nbar li {
       display: block;
       color: black;
