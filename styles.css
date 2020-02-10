@@ -33,9 +33,9 @@ img:hover{
       margin-bottom: 50px;
       background-color: blue;
   }
- /* .section4{
+ .section4{
       background-color:cyan;
-  }*/
+  }
   .flexx{
     /* float: right; */
     /* width: 50%; */
@@ -50,9 +50,13 @@ footer{
     background-color: cyan;
 }
 
+#home{
+    font-family: 'Kaushan Script', cursive;
+}
 
-
-
+#contacts{
+    font-family: 'Kaushan Script', cursive;
+}
 
 
 
