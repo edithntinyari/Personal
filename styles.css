@@ -57,7 +57,9 @@ footer{
 #contacts{
     font-family: 'Kaushan Script', cursive;
 }
-
+#projects a{
+    color: black;
+}
 
 
 
